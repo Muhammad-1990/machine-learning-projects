@@ -2,3 +2,6 @@ pandas
 statsmodels
 matplotlib
 numpy
+plotly
+joblib
+nbformat
